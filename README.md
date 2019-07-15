@@ -57,11 +57,11 @@ Make sure to have the IPFS daemon running locally to access the gateway.
 ipfs daemon
 ```
 
-Here is how to [Install ipfs on Mac with Brew] (https://brewinstall.org/Install-ipfs-on-Mac-with-Brew/).
+Here is how to [Install ipfs on Mac with Brew](https://brewinstall.org/Install-ipfs-on-Mac-with-Brew/).
 
 ## Contract
 
-The supply chain contract is available at: [0x82779f8080dDe6a00C065211F5A52F1e11928838] (https://rinkeby.etherscan.io/address/0x82779f8080dDe6a00C065211F5A52F1e11928838)
+The supply chain contract is available at: [0x82779f8080dDe6a00C065211F5A52F1e11928838](https://rinkeby.etherscan.io/address/0x82779f8080dDe6a00C065211F5A52F1e11928838)
 
 There you will also find transactions showing the successive *Harvesting*, *Processing*, *Packing*, *Selling*, *Buying*, *Shipping*, *Receiving*, *Purchasing* of a particular coffee bean.
 
